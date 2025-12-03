@@ -44,7 +44,7 @@
 
 | Название проекта | Описание проекта | Технологический стек |
 |------------------|------------------|------------------------|
-| Проект 1. Аналитика маркетплейса (Retention & PMF) ([github](https://github.com/irina-trifonova/marketplace-product-analytics)) | Когортный анализ, оценка product/market fit, определение основных метрик продукта, поиск точек роста выручки и приоритизация гипотез | Python, Pandas, Matplotlib, Seaborn, Numpy, Jupyter |
+| Проект 1. Аналитика маркетплейса ([github](https://github.com/irina-trifonova/marketplace-product-analytics)) | Когортный анализ, оценка product/market fit, определение основных метрик продукта, поиск точек роста выручки и приоритизация гипотез | Python, Pandas, Matplotlib, Seaborn, Numpy, Jupyter |
 | Проект 2 | ... | ... |
 | Проект 3 | ... | ... |
 
