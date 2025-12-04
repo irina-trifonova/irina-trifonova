@@ -46,7 +46,7 @@
 |------------------|------------------|------------------------|
 | Проект 1. Аналитика маркетплейса ([github](https://github.com/irina-trifonova/marketplace-product-analytics)) | Когортный анализ, оценка product/market fit, определение основных метрик продукта, поиск точек роста выручки и приоритизация гипотез | Python, Pandas, Matplotlib, Seaborn, Numpy, Jupyter |
 | Проект 2. A/B-тест новой механики оплаты ([github](https://github.com/irina-trifonova/ab-test))| Расчет продуктовых метрик (CR в оплату, ARPU и др.), проверка гипотез, анализ статистической значимости результатов (Хи-квадрат, двухвыборочный t-test, тест Левене) | Python, Pandas, SciPy, Matplotlib, Seaborn |
-| Проект 3 | ... | ... |
+| Проект 3. Анализ оптовых продаж аудиотехники ([github](https://github.com/irina-trifonova/wholesale-analysis)) | Сбор данных из разрозненных источников, анализ ключевых метрик (выручка, AOV), ассортимента, брендов и эффективности менеджеров | Python, Pandas, Os, Matplotlib, Seaborn |
 
 ---
 
